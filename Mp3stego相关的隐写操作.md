@@ -6,3 +6,5 @@
 <img src="http://chuantu.biz/t6/354/1533611499x-1404755576.png" width="855" height="685" alt="图片加载失败"/></br>
 # 可以参考： </br>
 <img src="http://chuantu.biz/t6/354/1533611590x1822611413.png" width="855" height="685" alt="图片加载失败"/></br>
+### 解开之后，自动生成一个txt文件。 ###  </br>
+<img src="http://chuantu.biz/t6/354/1533611682x1822611227.png" width="855" height="685" alt="图片加载失败"/></br>
