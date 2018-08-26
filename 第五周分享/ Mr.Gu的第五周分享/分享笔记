@@ -1,0 +1,43 @@
+## 第一题：
+由源码可得，flag信息放在flag.php中，通过注入的方式可以获得该信息
+
+    <?php 
+        include "flag.php"; 
+        $a = @$_REQUEST['hello']; 
+        eval( "var_dump($a);"); 
+        show_source(__FILE__); 
+    ?>
+传入值，使“hello”赋值，使文件flag.php被读取
+![d](https://github.com/adddmin/Gules-Warning/blob/master/%E7%AC%AC%E4%BA%94%E5%91%A8%E5%88%86%E4%BA%AB/Mr.Gu%E7%9A%84%E7%AC%AC%E4%BA%94%E5%91%A8%E5%88%86%E4%BA%AB/IM/1.jpg?raw=true)
+
+## 第二题
+![d](https://github.com/adddmin/Gules-Warning/blob/master/%E7%AC%AC%E4%BA%94%E5%91%A8%E5%88%86%E4%BA%AB/Mr.Gu%E7%9A%84%E7%AC%AC%E4%BA%94%E5%91%A8%E5%88%86%E4%BA%AB/IM/2.jpg?raw=true)
+在源码中可见，这里有一个判断，传入的输出的值是**可变变量**
+于是决定上传一个全局变量显示出所有的变量值
+![d](https://github.com/adddmin/Gules-Warning/blob/master/%E7%AC%AC%E4%BA%94%E5%91%A8%E5%88%86%E4%BA%AB/Mr.Gu%E7%9A%84%E7%AC%AC%E4%BA%94%E5%91%A8%E5%88%86%E4%BA%AB/IM/3.jpg?raw=true)
+
+## 第三题
+![d](https://github.com/adddmin/Gules-Warning/blob/master/%E7%AC%AC%E4%BA%94%E5%91%A8%E5%88%86%E4%BA%AB/Mr.Gu%E7%9A%84%E7%AC%AC%E4%BA%94%E5%91%A8%E5%88%86%E4%BA%AB/IM/4.jpg?raw=true)
+外面没任何信息，通过查看网页源码，发现了这是iother编码。直接放在console中跑就得到了一个值
+![d](https://github.com/adddmin/Gules-Warning/blob/master/%E7%AC%AC%E4%BA%94%E5%91%A8%E5%88%86%E4%BA%AB/Mr.Gu%E7%9A%84%E7%AC%AC%E4%BA%94%E5%91%A8%E5%88%86%E4%BA%AB/IM/5.jpg?raw=true)
+将值提交，就得到了答案
+![d](https://github.com/adddmin/Gules-Warning/blob/master/%E7%AC%AC%E4%BA%94%E5%91%A8%E5%88%86%E4%BA%AB/Mr.Gu%E7%9A%84%E7%AC%AC%E4%BA%94%E5%91%A8%E5%88%86%E4%BA%AB/IM/6.jpg?raw=true)
+
+## 第四题
+看源码也没什么信息，放到burp中跑一下
+![d](https://github.com/adddmin/Gules-Warning/blob/master/%E7%AC%AC%E4%BA%94%E5%91%A8%E5%88%86%E4%BA%AB/Mr.Gu%E7%9A%84%E7%AC%AC%E4%BA%94%E5%91%A8%E5%88%86%E4%BA%AB/IM/7.jpg?raw=true)
+
+在里面自带得scanner发现了一个隐藏网页
+![d](https://github.com/adddmin/Gules-Warning/blob/master/%E7%AC%AC%E4%BA%94%E5%91%A8%E5%88%86%E4%BA%AB/Mr.Gu%E7%9A%84%E7%AC%AC%E4%BA%94%E5%91%A8%E5%88%86%E4%BA%AB/IM/8.jpg?raw=true)
+
+打开是一个密码登录界面
+![d](https://github.com/adddmin/Gules-Warning/blob/master/%E7%AC%AC%E4%BA%94%E5%91%A8%E5%88%86%E4%BA%AB/Mr.Gu%E7%9A%84%E7%AC%AC%E4%BA%94%E5%91%A8%E5%88%86%E4%BA%AB/IM/9.jpg?raw=true)
+
+转去burp自带得爆破工具，将密码爆破得为hack
+
+## 第五题
+读源码
+![d](https://github.com/adddmin/Gules-Warning/blob/master/%E7%AC%AC%E4%BA%94%E5%91%A8%E5%88%86%E4%BA%AB/Mr.Gu%E7%9A%84%E7%AC%AC%E4%BA%94%E5%91%A8%E5%88%86%E4%BA%AB/IM/10.jpg?raw=true)
+明显是编码解码题
+![d](https://github.com/adddmin/Gules-Warning/blob/master/%E7%AC%AC%E4%BA%94%E5%91%A8%E5%88%86%E4%BA%AB/Mr.Gu%E7%9A%84%E7%AC%AC%E4%BA%94%E5%91%A8%E5%88%86%E4%BA%AB/IM/11.jpg?raw=true)
+.。。达到了答案
