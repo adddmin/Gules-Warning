@@ -26,3 +26,17 @@
 没解什么算法 到是出来一个flag
 
 ![](https://i.imgur.com/jbZ0o23.png)
+
+## RE
+下载得到一个可执行文件
+运行了一下要求输入一个字符串
+
+![](https://i.imgur.com/LuRFOed.png)
+
+用ida逆向后无头绪 使用OD调试
+
+![](https://i.imgur.com/kF3GtgP.png)
+
+F7 单步出flag
+
+![](https://i.imgur.com/TdegFsM.png)
