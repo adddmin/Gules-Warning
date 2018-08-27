@@ -1,0 +1,8063 @@
+{
+"AAInfo": "This is a CodeKit 3 project config file. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. Doing so will cause CodeKit to crash and\/or corrupt your project. I know it looks like JSON, but it is *not*. Many numbers in this file are 64-bit long long bitFlags, which JSON does not support. These numbers *cannot* be treated as discrete values and if you attempt to parse this file as standard JSON with any public JSON parser, these values will be corrupted. This file is not backwards-compatible with CodeKit 1 or 2. For more information, see https:\/\/codekitapp.com\/",
+"buildSteps": [
+	{
+		"name": "Process All Remaining Files and Folders",
+		"stepType": 1,
+		"uuidString": "F048FB69-1354-4B91-8331-CE896BB3016D"
+		}
+	],
+"creatorBuild": "26680",
+"files": {
+	"\/.sass-cache\/c1e7f45681f24d7bdfaad462a7165b421891f6aa\/main.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/.sass-cache\/c1e7f45681f24d7bdfaad462a7165b421891f6aa\/main.scssc",
+		"oF": 0
+		},
+	"\/404.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/404.php",
+		"oF": 0
+		},
+	"\/admin\/config.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/config.php",
+		"oF": 0
+		},
+	"\/admin\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/index.php",
+		"oF": 0
+		},
+	"\/admin\/license.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/license.txt",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/assets\/css\/color-picker\/color-picker.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/color-picker\/color-picker-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/assets\/css\/color-picker\/color-picker.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/color-picker\/color-picker.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/assets\/css\/color-picker\/color-picker.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/color-picker\/color-picker.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/assets\/css\/import_export\/import_export.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/import_export\/import_export-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/assets\/css\/import_export\/import_export.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/import_export\/import_export.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/assets\/css\/import_export\/import_export.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/import_export\/import_export.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/assets\/css\/media\/media.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/media\/media-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/assets\/css\/media\/media.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/media\/media.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/assets\/css\/media\/media.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/media\/media.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/assets\/css\/redux-admin.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/redux-admin-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/assets\/css\/redux-admin.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/redux-admin.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/assets\/css\/redux-admin.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/redux-admin.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/assets\/css\/redux-fields.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/redux-fields-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/assets\/css\/redux-vendor.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/redux-vendor-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/assets\/css\/rtl.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/rtl-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/assets\/css\/rtl.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/rtl.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/assets\/css\/rtl.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/rtl.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/elusive-icons.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/elusive-icons-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/elusive-icons.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/elusive-icons.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/elusive-icons.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/elusive-icons.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/fonts\/elusiveicons-webfont.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/fonts\/elusiveicons-webfont.eot",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/fonts\/elusiveicons-webfont.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/fonts\/elusiveicons-webfont.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/fonts\/elusiveicons-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/fonts\/elusiveicons-webfont.ttf",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/fonts\/elusiveicons-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/fonts\/elusiveicons-webfont.woff",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/scss\/_animated.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/scss\/_animated.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/scss\/_bordered-pulled.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/scss\/_bordered-pulled.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/scss\/_core.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/scss\/_core.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/scss\/_fixed-width.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/scss\/_fixed-width.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/scss\/_icons.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/scss\/_icons.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/scss\/_larger.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/scss\/_larger.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/scss\/_list.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/scss\/_list.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/scss\/_mixins.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/scss\/_mixins.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/scss\/_path.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/scss\/_path.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/scss\/_rotated-flipped.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/scss\/_rotated-flipped.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/scss\/_stacked.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/scss\/_stacked.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/scss\/_variables.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/scss\/_variables.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/scss\/elusive-icons.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/scss\/elusive-icons-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/scss\/elusive-icons.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/scss\/elusive-icons.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/scss\/elusive-icons.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/elusive-icons\/scss\/elusive-icons.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/jquery-ui-bootstrap\/images\/ui-bg_flat_0_aaaaaa_40x100.png": {
+		"ft": 32768,
+		"iS": 180,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/jquery-ui-bootstrap\/images\/ui-bg_flat_0_aaaaaa_40x100.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/jquery-ui-bootstrap\/images\/ui-bg_glass_55_fbf9ee_1x400.png": {
+		"ft": 32768,
+		"iS": 120,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/jquery-ui-bootstrap\/images\/ui-bg_glass_55_fbf9ee_1x400.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/jquery-ui-bootstrap\/images\/ui-bg_glass_65_ffffff_1x400.png": {
+		"ft": 32768,
+		"iS": 105,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/jquery-ui-bootstrap\/images\/ui-bg_glass_65_ffffff_1x400.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/jquery-ui-bootstrap\/images\/ui-bg_glass_75_dadada_1x400.png": {
+		"ft": 32768,
+		"iS": 111,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/jquery-ui-bootstrap\/images\/ui-bg_glass_75_dadada_1x400.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/jquery-ui-bootstrap\/images\/ui-bg_glass_75_e6e6e6_1x400.png": {
+		"ft": 32768,
+		"iS": 110,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/jquery-ui-bootstrap\/images\/ui-bg_glass_75_e6e6e6_1x400.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/jquery-ui-bootstrap\/images\/ui-bg_glass_75_ffffff_1x400.png": {
+		"ft": 32768,
+		"iS": 107,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/jquery-ui-bootstrap\/images\/ui-bg_glass_75_ffffff_1x400.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/jquery-ui-bootstrap\/images\/ui-bg_highlight-soft_75_cccccc_1x100.png": {
+		"ft": 32768,
+		"iS": 101,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/jquery-ui-bootstrap\/images\/ui-bg_highlight-soft_75_cccccc_1x100.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/jquery-ui-bootstrap\/images\/ui-bg_inset-soft_95_fef1ec_1x100.png": {
+		"ft": 32768,
+		"iS": 123,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/jquery-ui-bootstrap\/images\/ui-bg_inset-soft_95_fef1ec_1x100.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/jquery-ui-bootstrap\/images\/ui-icons_222222_256x240.png": {
+		"ft": 32768,
+		"iS": 4369,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/jquery-ui-bootstrap\/images\/ui-icons_222222_256x240.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/jquery-ui-bootstrap\/images\/ui-icons_2e83ff_256x240.png": {
+		"ft": 32768,
+		"iS": 4369,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/jquery-ui-bootstrap\/images\/ui-icons_2e83ff_256x240.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/jquery-ui-bootstrap\/images\/ui-icons_454545_256x240.png": {
+		"ft": 32768,
+		"iS": 4369,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/jquery-ui-bootstrap\/images\/ui-icons_454545_256x240.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/jquery-ui-bootstrap\/images\/ui-icons_888888_256x240.png": {
+		"ft": 32768,
+		"iS": 4369,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/jquery-ui-bootstrap\/images\/ui-icons_888888_256x240.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/jquery-ui-bootstrap\/images\/ui-icons_cd0a0a_256x240.png": {
+		"ft": 32768,
+		"iS": 4369,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/jquery-ui-bootstrap\/images\/ui-icons_cd0a0a_256x240.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/jquery-ui-bootstrap\/images\/ui-icons_f6cf3b_256x240.png": {
+		"ft": 32768,
+		"iS": 8884,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/jquery-ui-bootstrap\/images\/ui-icons_f6cf3b_256x240.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/jquery-ui-bootstrap\/images\/ui-icons_ffffff_256x240.png": {
+		"ft": 32768,
+		"iS": 4369,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/jquery-ui-bootstrap\/images\/ui-icons_ffffff_256x240.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/jquery-ui-bootstrap\/jquery-ui-1.10.0.custom.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/jquery-ui-bootstrap\/jquery-ui-1.10.0.custom-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/jquery-ui-bootstrap\/jquery-ui-1.10.0.custom.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/jquery-ui-bootstrap\/jquery-ui-1.10.0.custom.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/jquery-ui-bootstrap\/jquery-ui-1.10.0.custom.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/jquery-ui-bootstrap\/jquery-ui-1.10.0.custom.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/qtip\/jquery.qtip.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/qtip\/jquery.qtip-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/qtip\/jquery.qtip.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/qtip\/jquery.qtip.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/qtip\/jquery.qtip.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/qtip\/jquery.qtip.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/qtip\/jquery.qtip.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/qtip\/jquery.qtip.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/spectrum\/redux-spectrum.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/spectrum\/redux-spectrum-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/spectrum\/redux-spectrum.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/spectrum\/redux-spectrum.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/assets\/css\/vendor\/spectrum\/redux-spectrum.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/css\/vendor\/spectrum\/redux-spectrum.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/assets\/img\/1c.png": {
+		"ft": 32768,
+		"iS": 138,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/img\/1c.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/admin\/ReduxCore\/assets\/img\/1col.png": {
+		"ft": 32768,
+		"iS": 2895,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/img\/1col.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/admin\/ReduxCore\/assets\/img\/2-col-portfolio.png": {
+		"ft": 32768,
+		"iS": 1045,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/img\/2-col-portfolio.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/admin\/ReduxCore\/assets\/img\/2cl.png": {
+		"ft": 32768,
+		"iS": 2984,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/img\/2cl.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/admin\/ReduxCore\/assets\/img\/2cr.png": {
+		"ft": 32768,
+		"iS": 2985,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/img\/2cr.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/admin\/ReduxCore\/assets\/img\/3-col-portfolio.png": {
+		"ft": 32768,
+		"iS": 1025,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/img\/3-col-portfolio.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/admin\/ReduxCore\/assets\/img\/3cl.png": {
+		"ft": 32768,
+		"iS": 3156,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/img\/3cl.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/admin\/ReduxCore\/assets\/img\/3cm.png": {
+		"ft": 32768,
+		"iS": 3036,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/img\/3cm.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/admin\/ReduxCore\/assets\/img\/3cr.png": {
+		"ft": 32768,
+		"iS": 3050,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/img\/3cr.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/admin\/ReduxCore\/assets\/img\/4-col-portfolio.png": {
+		"ft": 32768,
+		"iS": 1033,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/img\/4-col-portfolio.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/admin\/ReduxCore\/assets\/img\/ajax.gif": {
+		"ft": 4194304,
+		"iS": 1392,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/img\/ajax.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/admin\/ReduxCore\/assets\/img\/menu_icon.png": {
+		"ft": 32768,
+		"iS": 1447,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/img\/menu_icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/admin\/ReduxCore\/assets\/img\/toggle_tabs.png": {
+		"ft": 32768,
+		"iS": 358,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/img\/toggle_tabs.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/admin\/ReduxCore\/assets\/js\/media\/media.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/js\/media\/media-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/assets\/js\/media\/media.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/js\/media\/media.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/assets\/js\/redux.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/js\/redux-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/assets\/js\/redux.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/js\/redux.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/assets\/js\/vendor.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/js\/vendor.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/assets\/js\/vendor\/cookie.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/js\/vendor\/cookie-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/assets\/js\/vendor\/jquery.alphanum.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/js\/vendor\/jquery.alphanum-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/assets\/js\/vendor\/jquery.serializeForm.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/js\/vendor\/jquery.serializeForm-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/assets\/js\/vendor\/jquery.typewatch.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/js\/vendor\/jquery.typewatch-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/assets\/js\/vendor\/jsonview.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/js\/vendor\/jsonview-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/assets\/js\/vendor\/jsonview.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/js\/vendor\/jsonview.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/assets\/js\/vendor\/lte-ie7.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/js\/vendor\/lte-ie7-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/assets\/js\/vendor\/qtip\/jquery.qtip.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/js\/vendor\/qtip\/jquery.qtip-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/assets\/js\/vendor\/qtip\/jquery.qtip.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/js\/vendor\/qtip\/jquery.qtip.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/assets\/js\/vendor\/redux.select2.sortable.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/js\/vendor\/redux.select2.sortable-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/assets\/js\/vendor\/redux.select2.sortable.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/js\/vendor\/redux.select2.sortable.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/assets\/js\/vendor\/spectrum\/redux-spectrum.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/js\/vendor\/spectrum\/redux-spectrum-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/assets\/js\/vendor\/spectrum\/redux-spectrum.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/assets\/js\/vendor\/spectrum\/redux-spectrum.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/core\/dashboard.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/core\/dashboard.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/core\/enqueue.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/core\/enqueue.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/core\/newsflash.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/core\/newsflash.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/core\/panel.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/core\/panel.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/core\/required.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/core\/required.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/framework.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/framework.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/browser.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/browser.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/class.p.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/class.p.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/class.redux_admin_notices.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/class.redux_admin_notices.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/class.redux_api.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/class.redux_api.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/class.redux_cdn.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/class.redux_cdn.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/class.redux_filesystem.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/class.redux_filesystem.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/class.redux_functions.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/class.redux_functions.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/class.redux_helpers.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/class.redux_helpers.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/class.redux_instances.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/class.redux_instances.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/class.thirdparty.fixes.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/class.thirdparty.fixes.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/extensions\/customizer\/extension_customizer.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/extensions\/customizer\/extension_customizer-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/inc\/extensions\/customizer\/extension_customizer.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/extensions\/customizer\/extension_customizer.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/extensions\/customizer\/extension_customizer.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/extensions\/customizer\/extension_customizer-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/extensions\/customizer\/extension_customizer.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/extensions\/customizer\/extension_customizer.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/extensions\/customizer\/extension_customizer.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/extensions\/customizer\/extension_customizer.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/extensions\/customizer\/extension_customizer.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/extensions\/customizer\/extension_customizer.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/inc\/extensions\/customizer\/inc\/customizer_control.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/extensions\/customizer\/inc\/customizer_control.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/extensions\/customizer\/inc\/customizer_devs.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/extensions\/customizer\/inc\/customizer_devs.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/extensions\/customizer\/inc\/customizer_fields.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/extensions\/customizer\/inc\/customizer_fields.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/extensions\/customizer\/inc\/customizer_panel.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/extensions\/customizer\/inc\/customizer_panel.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/extensions\/customizer\/inc\/customizer_section.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/extensions\/customizer\/inc\/customizer_section.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/extensions\/import_export\/extension_import_export.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/extensions\/import_export\/extension_import_export.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/extensions\/import_export\/import_export\/field_import_export.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/extensions\/import_export\/import_export\/field_import_export-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/inc\/extensions\/import_export\/import_export\/field_import_export.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/extensions\/import_export\/import_export\/field_import_export.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/extensions\/import_export\/import_export\/field_import_export.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/extensions\/import_export\/import_export\/field_import_export-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/extensions\/import_export\/import_export\/field_import_export.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/extensions\/import_export\/import_export\/field_import_export.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/extensions\/import_export\/import_export\/field_import_export.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/extensions\/import_export\/import_export\/field_import_export.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/extensions\/import_export\/import_export\/field_import_export.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/extensions\/import_export\/import_export\/field_import_export.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/inc\/extensions\/options_object\/extension_options_object.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/extensions\/options_object\/extension_options_object.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/extensions\/options_object\/options_object\/field_options_object.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/extensions\/options_object\/options_object\/field_options_object-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/inc\/extensions\/options_object\/options_object\/field_options_object.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/extensions\/options_object\/options_object\/field_options_object.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/extensions\/options_object\/options_object\/field_options_object.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/extensions\/options_object\/options_object\/field_options_object-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/extensions\/options_object\/options_object\/field_options_object.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/extensions\/options_object\/options_object\/field_options_object.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/extensions\/options_object\/options_object\/field_options_object.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/extensions\/options_object\/options_object\/field_options_object.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/extensions\/options_object\/options_object\/field_options_object.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/extensions\/options_object\/options_object\/field_options_object.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/inc\/extensions\/README.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/extensions\/README.txt",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/ace_editor\/field_ace_editor.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/ace_editor\/field_ace_editor-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/ace_editor\/field_ace_editor.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/ace_editor\/field_ace_editor.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/ace_editor\/field_ace_editor.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/ace_editor\/field_ace_editor-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/ace_editor\/field_ace_editor.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/ace_editor\/field_ace_editor.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/ace_editor\/field_ace_editor.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/ace_editor\/field_ace_editor.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/ace_editor\/field_ace_editor.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/ace_editor\/field_ace_editor.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/background\/field_background.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/background\/field_background-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/background\/field_background.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/background\/field_background.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/background\/field_background.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/background\/field_background-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/background\/field_background.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/background\/field_background.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/background\/field_background.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/background\/field_background.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/background\/field_background.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/background\/field_background.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/border\/field_border.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/border\/field_border-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/border\/field_border.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/border\/field_border.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/border\/field_border.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/border\/field_border-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/border\/field_border.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/border\/field_border.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/border\/field_border.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/border\/field_border.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/border\/field_border.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/border\/field_border.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/button_set\/field_button_set.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/button_set\/field_button_set-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/button_set\/field_button_set.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/button_set\/field_button_set.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/button_set\/field_button_set.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/button_set\/field_button_set.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/checkbox\/field_checkbox.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/checkbox\/field_checkbox-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/checkbox\/field_checkbox.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/checkbox\/field_checkbox.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/checkbox\/field_checkbox.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/checkbox\/field_checkbox-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/checkbox\/field_checkbox.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/checkbox\/field_checkbox.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/checkbox\/field_checkbox.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/checkbox\/field_checkbox.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/checkbox\/field_checkbox.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/checkbox\/field_checkbox.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/color\/field_color.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/color\/field_color-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/color\/field_color.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/color\/field_color.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/color\/field_color.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/color\/field_color.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/color_gradient\/field_color_gradient.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/color_gradient\/field_color_gradient-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/color_gradient\/field_color_gradient.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/color_gradient\/field_color_gradient.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/color_gradient\/field_color_gradient.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/color_gradient\/field_color_gradient-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/color_gradient\/field_color_gradient.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/color_gradient\/field_color_gradient.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/color_gradient\/field_color_gradient.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/color_gradient\/field_color_gradient.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/color_gradient\/field_color_gradient.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/color_gradient\/field_color_gradient.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/color_rgba\/field_color_rgba.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/color_rgba\/field_color_rgba-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/color_rgba\/field_color_rgba.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/color_rgba\/field_color_rgba.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/color_rgba\/field_color_rgba.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/color_rgba\/field_color_rgba-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/color_rgba\/field_color_rgba.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/color_rgba\/field_color_rgba.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/color_rgba\/field_color_rgba.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/color_rgba\/field_color_rgba.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/color_rgba\/field_color_rgba.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/color_rgba\/field_color_rgba.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/date\/field_date.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/date\/field_date-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/date\/field_date.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/date\/field_date.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/date\/field_date.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/date\/field_date-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/date\/field_date.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/date\/field_date.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/date\/field_date.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/date\/field_date.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/date\/field_date.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/date\/field_date.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/dimensions\/field_dimensions.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/dimensions\/field_dimensions-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/dimensions\/field_dimensions.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/dimensions\/field_dimensions.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/dimensions\/field_dimensions.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/dimensions\/field_dimensions-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/dimensions\/field_dimensions.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/dimensions\/field_dimensions.css",
+		"oF": 0,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/dimensions\/field_dimensions.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/dimensions\/field_dimensions.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/dimensions\/field_dimensions.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/dimensions\/field_dimensions.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/dimensions\/field_dimensions.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/dimensions\/field_dimensions.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/divide\/field_divide.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/divide\/field_divide-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/divide\/field_divide.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/divide\/field_divide.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/divide\/field_divide.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/divide\/field_divide.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/divide\/field_divide.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/divide\/field_divide.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/editor\/field_editor.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/editor\/field_editor-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/editor\/field_editor.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/editor\/field_editor.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/editor\/field_editor.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/editor\/field_editor-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/editor\/field_editor.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/editor\/field_editor.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/editor\/field_editor.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/editor\/field_editor.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/editor\/field_editor.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/editor\/field_editor.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/gallery\/field_gallery.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/gallery\/field_gallery-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/gallery\/field_gallery.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/gallery\/field_gallery.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/gallery\/field_gallery.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/gallery\/field_gallery.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/image_select\/field_image_select.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/image_select\/field_image_select-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/image_select\/field_image_select.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/image_select\/field_image_select.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/image_select\/field_image_select.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/image_select\/field_image_select-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/image_select\/field_image_select.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/image_select\/field_image_select.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/image_select\/field_image_select.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/image_select\/field_image_select.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/image_select\/field_image_select.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/image_select\/field_image_select.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/info\/field_info.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/info\/field_info-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/info\/field_info.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/info\/field_info.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/info\/field_info.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/info\/field_info.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/info\/field_info.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/info\/field_info.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/link_color\/field_link_color.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/link_color\/field_link_color-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/link_color\/field_link_color.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/link_color\/field_link_color.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/link_color\/field_link_color.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/link_color\/field_link_color-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/link_color\/field_link_color.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/link_color\/field_link_color.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/link_color\/field_link_color.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/link_color\/field_link_color.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/link_color\/field_link_color.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/link_color\/field_link_color.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/media\/field_media.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/media\/field_media-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/media\/field_media.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/media\/field_media.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/media\/field_media.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/media\/field_media.css",
+		"oF": 0,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/media\/field_media.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/media\/field_media.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/media\/field_media.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/media\/field_media.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/multi_text\/field_multi_text.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/multi_text\/field_multi_text-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/multi_text\/field_multi_text.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/multi_text\/field_multi_text.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/multi_text\/field_multi_text.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/multi_text\/field_multi_text-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/multi_text\/field_multi_text.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/multi_text\/field_multi_text.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/multi_text\/field_multi_text.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/multi_text\/field_multi_text.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/multi_text\/field_multi_text.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/multi_text\/field_multi_text.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/palette\/field_palette.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/palette\/field_palette-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/palette\/field_palette.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/palette\/field_palette.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/palette\/field_palette.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/palette\/field_palette-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/palette\/field_palette.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/palette\/field_palette.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/palette\/field_palette.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/palette\/field_palette.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/palette\/field_palette.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/palette\/field_palette.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/password\/field_password.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/password\/field_password.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/radio\/field_radio.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/radio\/field_radio.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/raw\/field_raw.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/raw\/field_raw.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/raw\/parsedown.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/raw\/parsedown.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/section\/field_section.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/section\/field_section-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/section\/field_section.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/section\/field_section.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/section\/field_section.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/section\/field_section.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/section\/field_section.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/section\/field_section.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/select\/elusive-icons.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/select\/elusive-icons.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/select\/field_select.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/select\/field_select-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/select\/field_select.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/select\/field_select.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/select\/field_select.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/select\/field_select-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/select\/field_select.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/select\/field_select.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/select\/field_select.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/select\/field_select.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/select\/field_select.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/select\/field_select.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/select_image\/field_select_image.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/select_image\/field_select_image-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/select_image\/field_select_image.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/select_image\/field_select_image.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/select_image\/field_select_image.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/select_image\/field_select_image-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/select_image\/field_select_image.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/select_image\/field_select_image.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/select_image\/field_select_image.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/select_image\/field_select_image.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/select_image\/field_select_image.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/select_image\/field_select_image.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/slider\/field_slider.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/slider\/field_slider-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/slider\/field_slider.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/slider\/field_slider.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/slider\/field_slider.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/slider\/field_slider-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/slider\/field_slider.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/slider\/field_slider.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/slider\/field_slider.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/slider\/field_slider.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/slider\/field_slider.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/slider\/field_slider.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/slider\/vendor\/nouislider\/redux.jquery.nouislider.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/slider\/vendor\/nouislider\/redux.jquery.nouislider-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/slider\/vendor\/nouislider\/redux.jquery.nouislider.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/slider\/vendor\/nouislider\/redux.jquery.nouislider-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/slider\/vendor\/nouislider\/redux.jquery.nouislider.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/slider\/vendor\/nouislider\/redux.jquery.nouislider.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/slides\/field_slides.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/slides\/field_slides-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/slides\/field_slides.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/slides\/field_slides.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/slides\/field_slides.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/slides\/field_slides-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/slides\/field_slides.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/slides\/field_slides.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/slides\/field_slides.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/slides\/field_slides.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/slides\/field_slides.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/slides\/field_slides.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/sortable\/field_sortable.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/sortable\/field_sortable-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/sortable\/field_sortable.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/sortable\/field_sortable.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/sortable\/field_sortable.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/sortable\/field_sortable-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/sortable\/field_sortable.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/sortable\/field_sortable.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/sortable\/field_sortable.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/sortable\/field_sortable.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/sortable\/field_sortable.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/sortable\/field_sortable.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/sorter\/field_sorter.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/sorter\/field_sorter-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/sorter\/field_sorter.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/sorter\/field_sorter.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/sorter\/field_sorter.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/sorter\/field_sorter-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/sorter\/field_sorter.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/sorter\/field_sorter.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/sorter\/field_sorter.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/sorter\/field_sorter.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/sorter\/field_sorter.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/sorter\/field_sorter.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/spacing\/field_spacing.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/spacing\/field_spacing-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/spacing\/field_spacing.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/spacing\/field_spacing.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/spacing\/field_spacing.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/spacing\/field_spacing-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/spacing\/field_spacing.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/spacing\/field_spacing.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/spacing\/field_spacing.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/spacing\/field_spacing.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/spacing\/field_spacing.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/spacing\/field_spacing.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/spinner\/arrow_left.png": {
+		"ft": 32768,
+		"iS": 150,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/spinner\/arrow_left.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/spinner\/arrow_right.png": {
+		"ft": 32768,
+		"iS": 154,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/spinner\/arrow_right.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/spinner\/field_spinner.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/spinner\/field_spinner-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/spinner\/field_spinner.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/spinner\/field_spinner.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/spinner\/field_spinner.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/spinner\/field_spinner-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/spinner\/field_spinner.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/spinner\/field_spinner.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/spinner\/field_spinner.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/spinner\/field_spinner.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/spinner\/field_spinner.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/spinner\/field_spinner.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/spinner\/vendor\/spinner_custom.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/spinner\/vendor\/spinner_custom-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/spinner\/vendor\/spinner_custom.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/spinner\/vendor\/spinner_custom.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/switch\/field_switch.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/switch\/field_switch-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/switch\/field_switch.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/switch\/field_switch.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/switch\/field_switch.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/switch\/field_switch-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/switch\/field_switch.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/switch\/field_switch.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/switch\/field_switch.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/switch\/field_switch.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/switch\/field_switch.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/switch\/field_switch.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/switch\/slider-control.png": {
+		"ft": 32768,
+		"iS": 1690,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/switch\/slider-control.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/switch\/switch.gif": {
+		"ft": 4194304,
+		"iS": 1233,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/switch\/switch.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/text\/field_text.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/text\/field_text-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/text\/field_text.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/text\/field_text.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/text\/field_text.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/text\/field_text.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/text\/field_text.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/text\/field_text.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/textarea\/field_textarea.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/textarea\/field_textarea.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/typography\/field_typography.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/typography\/field_typography-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/typography\/field_typography.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/typography\/field_typography.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/typography\/field_typography.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/typography\/field_typography-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/typography\/field_typography.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/typography\/field_typography-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/typography\/field_typography.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/typography\/field_typography.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/typography\/field_typography.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/typography\/field_typography.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/typography\/field_typography.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/typography\/field_typography.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/typography\/field_typography_json.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/typography\/field_typography_json-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/typography\/field_typography_json.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/typography\/field_typography_json.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/fields\/typography\/googlefonts.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/fields\/typography\/googlefonts.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/lib.redux_instances.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/lib.redux_instances.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/themecheck\/checks\/embedded.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/themecheck\/checks\/embedded.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/themecheck\/checks\/full_package.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/themecheck\/checks\/full_package.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/themecheck\/checks\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/themecheck\/checks\/index.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/themecheck\/class.redux_themecheck.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/themecheck\/class.redux_themecheck.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/themecheck\/css\/admin.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/themecheck\/css\/admin-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/inc\/themecheck\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/themecheck\/index.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/themecheck\/js\/admin.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/themecheck\/js\/admin-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/themecheck\/lang\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/themecheck\/lang\/index.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/themecheck\/lang\/themeforest-check.pot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/themecheck\/lang\/themeforest-check.pot",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/tracking.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/tracking.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/validation\/color\/validation_color.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/validation\/color\/validation_color.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/validation\/color_rgba\/validation_color_rgba.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/validation\/color_rgba\/validation_color_rgba.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/validation\/colorrgba\/validation_colorrgba.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/validation\/colorrgba\/validation_colorrgba.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/validation\/comma_numeric\/validation_comma_numeric.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/validation\/comma_numeric\/validation_comma_numeric.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/validation\/css\/validation_css.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/validation\/css\/validation_css.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/validation\/date\/validation_date.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/validation\/date\/validation_date.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/validation\/email\/validation_email.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/validation\/email\/validation_email.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/validation\/email_not_empty\/validation_email_not_empty.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/validation\/email_not_empty\/validation_email_not_empty.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/validation\/html\/validation_html.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/validation\/html\/validation_html.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/validation\/html_custom\/validation_html_custom.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/validation\/html_custom\/validation_html_custom.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/validation\/js\/validation_js.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/validation\/js\/validation_js.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/validation\/no_html\/validation_no_html.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/validation\/no_html\/validation_no_html.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/validation\/no_special_chars\/validation_no_special_chars.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/validation\/no_special_chars\/validation_no_special_chars.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/validation\/not_empty\/validation_not_empty.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/validation\/not_empty\/validation_not_empty.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/validation\/numeric\/validation_numeric.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/validation\/numeric\/validation_numeric.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/validation\/numeric_not_empty\/validation_numeric_not_empty.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/validation\/numeric_not_empty\/validation_numeric_not_empty.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/validation\/preg_replace\/validation_preg_replace.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/validation\/preg_replace\/validation_preg_replace.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/validation\/str_replace\/validation_str_replace.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/validation\/str_replace\/validation_str_replace.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/validation\/unique_slug\/validation_unique_slug.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/validation\/unique_slug\/validation_unique_slug.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/validation\/url\/validation_url.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/validation\/url\/validation_url.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/welcome\/css\/redux-welcome.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/welcome\/css\/redux-welcome-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/ReduxCore\/inc\/welcome\/css\/redux-welcome.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/welcome\/css\/redux-welcome.css.map",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/welcome\/css\/redux-welcome.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/welcome\/css\/redux-welcome.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/admin\/ReduxCore\/inc\/welcome\/js\/jquery.easing.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/welcome\/js\/jquery.easing.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/welcome\/js\/redux-welcome-admin.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/welcome\/js\/redux-welcome-admin-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/admin\/ReduxCore\/inc\/welcome\/views\/about.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/welcome\/views\/about.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/welcome\/views\/changelog.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/welcome\/views\/changelog.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/welcome\/views\/credits.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/welcome\/views\/credits.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/welcome\/views\/extensions.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/welcome\/views\/extensions.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/welcome\/views\/status_report.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/welcome\/views\/status_report.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/welcome\/views\/support.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/welcome\/views\/support.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/inc\/welcome\/welcome.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/inc\/welcome\/welcome.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/languages\/README.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/languages\/README.txt",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/languages\/redux-framework-ar.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/languages\/redux-framework-ar.mo",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/languages\/redux-framework-bg_BG.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/languages\/redux-framework-bg_BG.mo",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/languages\/redux-framework-bn_BD.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/languages\/redux-framework-bn_BD.mo",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/languages\/redux-framework-cs_CZ.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/languages\/redux-framework-cs_CZ.mo",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/languages\/redux-framework-da_DK.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/languages\/redux-framework-da_DK.mo",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/languages\/redux-framework-de_DE.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/languages\/redux-framework-de_DE.mo",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/languages\/redux-framework-el.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/languages\/redux-framework-el.mo",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/languages\/redux-framework-es_ES.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/languages\/redux-framework-es_ES.mo",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/languages\/redux-framework-es_MX.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/languages\/redux-framework-es_MX.mo",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/languages\/redux-framework-fa_IR.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/languages\/redux-framework-fa_IR.mo",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/languages\/redux-framework-fi.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/languages\/redux-framework-fi.mo",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/languages\/redux-framework-fr_FR.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/languages\/redux-framework-fr_FR.mo",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/languages\/redux-framework-he_IL.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/languages\/redux-framework-he_IL.mo",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/languages\/redux-framework-hi_IN.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/languages\/redux-framework-hi_IN.mo",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/languages\/redux-framework-hr.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/languages\/redux-framework-hr.mo",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/languages\/redux-framework-hu_HU.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/languages\/redux-framework-hu_HU.mo",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/languages\/redux-framework-id_ID.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/languages\/redux-framework-id_ID.mo",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/languages\/redux-framework-it_IT.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/languages\/redux-framework-it_IT.mo",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/languages\/redux-framework-ja.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/languages\/redux-framework-ja.mo",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/languages\/redux-framework-km.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/languages\/redux-framework-km.mo",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/languages\/redux-framework-lt_LT.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/languages\/redux-framework-lt_LT.mo",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/languages\/redux-framework-nb_NO.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/languages\/redux-framework-nb_NO.mo",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/languages\/redux-framework-ne_NP.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/languages\/redux-framework-ne_NP.mo",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/languages\/redux-framework-nl_NL.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/languages\/redux-framework-nl_NL.mo",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/languages\/redux-framework-pl_PL.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/languages\/redux-framework-pl_PL.mo",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/languages\/redux-framework-pt_BR.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/languages\/redux-framework-pt_BR.mo",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/languages\/redux-framework-pt_PT.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/languages\/redux-framework-pt_PT.mo",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/languages\/redux-framework-ro_RO.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/languages\/redux-framework-ro_RO.mo",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/languages\/redux-framework-ru_RU.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/languages\/redux-framework-ru_RU.mo",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/languages\/redux-framework-sk_SK.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/languages\/redux-framework-sk_SK.mo",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/languages\/redux-framework-sl_SI.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/languages\/redux-framework-sl_SI.mo",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/languages\/redux-framework-sv_SE.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/languages\/redux-framework-sv_SE.mo",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/languages\/redux-framework-th.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/languages\/redux-framework-th.mo",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/languages\/redux-framework-tr_TR.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/languages\/redux-framework-tr_TR.mo",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/languages\/redux-framework-zh_CN.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/languages\/redux-framework-zh_CN.mo",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/languages\/redux-framework.pot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/languages\/redux-framework.pot",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/templates\/panel\/container.tpl.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/templates\/panel\/container.tpl.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/templates\/panel\/content.tpl.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/templates\/panel\/content.tpl.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/templates\/panel\/footer.tpl.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/templates\/panel\/footer.tpl.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/templates\/panel\/header.tpl.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/templates\/panel\/header.tpl.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/templates\/panel\/header_stickybar.tpl.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/templates\/panel\/header_stickybar.tpl.php",
+		"oF": 0
+		},
+	"\/admin\/ReduxCore\/templates\/panel\/menu_container.tpl.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin\/ReduxCore\/templates\/panel\/menu_container.tpl.php",
+		"oF": 0
+		},
+	"\/archive.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/archive.php",
+		"oF": 0
+		},
+	"\/author.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/author.php",
+		"oF": 0
+		},
+	"\/comments.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/comments.php",
+		"oF": 0
+		},
+	"\/content\/author-certification.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/author-certification.php",
+		"oF": 0
+		},
+	"\/content\/author-comment.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/author-comment.php",
+		"oF": 0
+		},
+	"\/content\/author-contribute.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/author-contribute.php",
+		"oF": 0
+		},
+	"\/content\/author-edit.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/author-edit.php",
+		"oF": 0
+		},
+	"\/content\/author-follower.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/author-follower.php",
+		"oF": 0
+		},
+	"\/content\/author-following.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/author-following.php",
+		"oF": 0
+		},
+	"\/content\/author-index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/author-index.php",
+		"oF": 0
+		},
+	"\/content\/author-like.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/author-like.php",
+		"oF": 0
+		},
+	"\/content\/author-message.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/author-message.php",
+		"oF": 0
+		},
+	"\/content\/author-post-custom.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/author-post-custom.php",
+		"oF": 0
+		},
+	"\/content\/author-post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/author-post.php",
+		"oF": 0
+		},
+	"\/content\/author-profile.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/author-profile.php",
+		"oF": 0
+		},
+	"\/content\/contact-map.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/contact-map.php",
+		"oF": 0
+		},
+	"\/content\/footer-popup.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/footer-popup.php",
+		"oF": 0
+		},
+	"\/content\/grid-info.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/grid-info.php",
+		"oF": 0
+		},
+	"\/content\/grid-post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/grid-post.php",
+		"oF": 0
+		},
+	"\/content\/home-download.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/home-download.php",
+		"oF": 0
+		},
+	"\/content\/home-link.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/home-link.php",
+		"oF": 0
+		},
+	"\/content\/home-new.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/home-new.php",
+		"oF": 0
+		},
+	"\/content\/home-product.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/home-product.php",
+		"oF": 0
+		},
+	"\/content\/home-slides-custom.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/home-slides-custom.php",
+		"oF": 0
+		},
+	"\/content\/home-slides-sticky.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/home-slides-sticky.php",
+		"oF": 0
+		},
+	"\/content\/home-sticky.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/home-sticky.php",
+		"oF": 0
+		},
+	"\/content\/home-topic.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/home-topic.php",
+		"oF": 0
+		},
+	"\/content\/home-video.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/home-video.php",
+		"oF": 0
+		},
+	"\/content\/info-download.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/info-download.php",
+		"oF": 0
+		},
+	"\/content\/info-post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/info-post.php",
+		"oF": 0
+		},
+	"\/content\/info-topic.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/info-topic.php",
+		"oF": 0
+		},
+	"\/content\/info-video.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/info-video.php",
+		"oF": 0
+		},
+	"\/content\/list-download.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/list-download.php",
+		"oF": 0
+		},
+	"\/content\/list-post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/list-post.php",
+		"oF": 0
+		},
+	"\/content\/list-topic.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/list-topic.php",
+		"oF": 0
+		},
+	"\/content\/list-video.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/list-video.php",
+		"oF": 0
+		},
+	"\/content\/mobile-btn.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/mobile-btn.php",
+		"oF": 0
+		},
+	"\/content\/search-download.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/search-download.php",
+		"oF": 0
+		},
+	"\/content\/search-post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/search-post.php",
+		"oF": 0
+		},
+	"\/content\/search-topic.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/search-topic.php",
+		"oF": 0
+		},
+	"\/content\/share-btn.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/share-btn.php",
+		"oF": 0
+		},
+	"\/content\/side-btn.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/side-btn.php",
+		"oF": 0
+		},
+	"\/content\/sift-cat.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/sift-cat.php",
+		"oF": 0
+		},
+	"\/content\/single-copyright.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/single-copyright.php",
+		"oF": 0
+		},
+	"\/content\/single-prevnext.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/single-prevnext.php",
+		"oF": 0
+		},
+	"\/content\/single-recommended.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/single-recommended.php",
+		"oF": 0
+		},
+	"\/content\/single-related.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/single-related.php",
+		"oF": 0
+		},
+	"\/content\/tag-share.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/tag-share.php",
+		"oF": 0
+		},
+	"\/content\/video-player.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/video-player.php",
+		"oF": 0
+		},
+	"\/css\/main.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/main-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/dwqa-templates\/answer-submit-form.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/dwqa-templates\/answer-submit-form.php",
+		"oF": 0
+		},
+	"\/dwqa-templates\/content-comment.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/dwqa-templates\/content-comment.php",
+		"oF": 0
+		},
+	"\/dwqa-templates\/content-question.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/dwqa-templates\/content-question.php",
+		"oF": 0
+		},
+	"\/dwqa-templates\/content-single-answer.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/dwqa-templates\/content-single-answer.php",
+		"oF": 0
+		},
+	"\/dwqa-templates\/content-single-question.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/dwqa-templates\/content-single-question.php",
+		"oF": 0
+		},
+	"\/footer.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/footer.php",
+		"oF": 0
+		},
+	"\/functions.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/functions.php",
+		"oF": 0
+		},
+	"\/header.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/header.php",
+		"oF": 0
+		},
+	"\/images\/loading.gif": {
+		"ft": 4194304,
+		"iS": 529,
+		"oA": 0,
+		"oAP": "\/images\/loading.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/post-loading.gif": {
+		"ft": 4194304,
+		"iS": 13999,
+		"oA": 0,
+		"oAP": "\/images\/post-loading.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/select-arrow.png": {
+		"ft": 32768,
+		"iS": 14719,
+		"oA": 0,
+		"oAP": "\/images\/select-arrow.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/AcsRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/AcsRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/AcsResponse.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/AcsResponse.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Auth\/AbstractCredential.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Auth\/AbstractCredential.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Auth\/Credential.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Auth\/Credential.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Auth\/EcsRamRoleCredential.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Auth\/EcsRamRoleCredential.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Auth\/EcsRamRoleService.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Auth\/EcsRamRoleService.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Auth\/ISigner.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Auth\/ISigner.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Auth\/RamRoleArnCredential.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Auth\/RamRoleArnCredential.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Auth\/RamRoleArnService.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Auth\/RamRoleArnService.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Auth\/ShaHmac1Signer.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Auth\/ShaHmac1Signer.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Auth\/ShaHmac256Signer.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Auth\/ShaHmac256Signer.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Autoloader\/Autoloader.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Autoloader\/Autoloader.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/ChangeLog.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/ChangeLog.txt",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Config.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Config.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/DefaultAcsClient.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/DefaultAcsClient.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Exception\/ClientException.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Exception\/ClientException.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Exception\/ServerException.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Exception\/ServerException.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Http\/HttpHelper.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Http\/HttpHelper.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Http\/HttpResponse.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Http\/HttpResponse.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/IAcsClient.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/IAcsClient.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Profile\/DefaultProfile.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Profile\/DefaultProfile.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Profile\/IClientProfile.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Profile\/IClientProfile.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Regions\/Endpoint.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Regions\/Endpoint.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Regions\/EndpointConfig.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Regions\/EndpointConfig.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Regions\/EndpointProvider.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Regions\/EndpointProvider.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Regions\/endpoints.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Regions\/endpoints.xml",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Regions\/LocationService.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Regions\/LocationService.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Regions\/ProductDomain.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/Regions\/ProductDomain.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/RoaAcsRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/RoaAcsRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/RpcAcsRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/RpcAcsRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/UnitTest\/Auth\/CredentialTest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/UnitTest\/Auth\/CredentialTest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/UnitTest\/Auth\/ShaHmac1SignerTest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/UnitTest\/Auth\/ShaHmac1SignerTest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/UnitTest\/Auth\/ShaHmac256SignerTest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/UnitTest\/Auth\/ShaHmac256SignerTest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/UnitTest\/BaseTest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/UnitTest\/BaseTest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/UnitTest\/BatchCompute\/ListImagesRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/UnitTest\/BatchCompute\/ListImagesRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/UnitTest\/DefaultAcsClientTest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/UnitTest\/DefaultAcsClientTest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/UnitTest\/Ecs\/Rquest\/DescribeRegionsRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/UnitTest\/Ecs\/Rquest\/DescribeRegionsRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/UnitTest\/Ft\/InteTest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/UnitTest\/Ft\/InteTest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/UnitTest\/Ft\/TestRoaApiRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/UnitTest\/Ft\/TestRoaApiRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/UnitTest\/Ft\/TestRpcApiRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/UnitTest\/Ft\/TestRpcApiRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/UnitTest\/Http\/HttpHelperTest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/UnitTest\/Http\/HttpHelperTest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/UnitTest\/Profile\/DefaultProfileTest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/UnitTest\/Profile\/DefaultProfileTest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/UnitTest\/Regions\/EndPointByLocationTest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/UnitTest\/Regions\/EndPointByLocationTest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/UnitTest\/Regions\/EndpointProviderTest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-core\/UnitTest\/Regions\/EndpointProviderTest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/ChangeLog.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/ChangeLog.txt",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/AddCategoryRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/AddCategoryRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/AddEditingProjectRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/AddEditingProjectRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/CreateUploadImageRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/CreateUploadImageRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/CreateUploadVideoRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/CreateUploadVideoRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/DeleteCategoryRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/DeleteCategoryRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/DeleteEditingProjectRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/DeleteEditingProjectRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/DeleteStreamRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/DeleteStreamRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/DeleteVideoRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/DeleteVideoRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/DescribeCdnDomainLogsRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/DescribeCdnDomainLogsRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/DescribeDomainBpsDataRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/DescribeDomainBpsDataRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/DescribeDomainFlowDataRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/DescribeDomainFlowDataRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/DescribePlayTopVideosRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/DescribePlayTopVideosRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/DescribePlayUserAvgRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/DescribePlayUserAvgRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/DescribePlayUserTotalRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/DescribePlayUserTotalRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/DescribePlayVideoStatisRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/DescribePlayVideoStatisRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/DescribeRefreshQuotaRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/DescribeRefreshQuotaRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/DescribeRefreshTasksRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/DescribeRefreshTasksRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/GetCategoriesRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/GetCategoriesRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/GetCDNStatisSumRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/GetCDNStatisSumRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/GetEditingProjectMaterialsRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/GetEditingProjectMaterialsRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/GetEditingProjectRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/GetEditingProjectRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/GetImageInfoRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/GetImageInfoRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/GetMessageCallbackRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/GetMessageCallbackRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/GetMezzanineInfoRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/GetMezzanineInfoRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/GetOSSStatisRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/GetOSSStatisRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/GetPlayInfoRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/GetPlayInfoRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/GetVideoConfigRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/GetVideoConfigRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/GetVideoInfoRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/GetVideoInfoRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/GetVideoListRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/GetVideoListRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/GetVideoPlayAuthRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/GetVideoPlayAuthRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/GetVideoPlayInfoRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/GetVideoPlayInfoRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/ListAIASRJobRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/ListAIASRJobRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/ListAIJobRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/ListAIJobRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/ListAIVideoCategoryJobRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/ListAIVideoCategoryJobRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/ListAIVideoCensorJobRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/ListAIVideoCensorJobRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/ListAIVideoCoverJobRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/ListAIVideoCoverJobRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/ListAIVideoPornRecogJobRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/ListAIVideoPornRecogJobRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/ListAIVideoSummaryJobRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/ListAIVideoSummaryJobRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/ListAIVideoTerrorismRecogJobRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/ListAIVideoTerrorismRecogJobRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/ListLiveRecordVideoRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/ListLiveRecordVideoRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/OpenVodServiceRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/OpenVodServiceRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/ProduceEditingProjectVideoRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/ProduceEditingProjectVideoRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/PushObjectCacheRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/PushObjectCacheRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/RefreshObjectCachesRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/RefreshObjectCachesRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/RefreshUploadVideoRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/RefreshUploadVideoRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/SearchEditingProjectRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/SearchEditingProjectRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/SetEditingProjectMaterialsRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/SetEditingProjectMaterialsRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/SetMessageCallbackRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/SetMessageCallbackRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/SubmitAIASRJobRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/SubmitAIASRJobRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/SubmitAIJobRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/SubmitAIJobRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/SubmitAIVideoCategoryJobRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/SubmitAIVideoCategoryJobRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/SubmitAIVideoCensorJobRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/SubmitAIVideoCensorJobRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/SubmitAIVideoCoverJobRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/SubmitAIVideoCoverJobRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/SubmitAIVideoPornRecogJobRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/SubmitAIVideoPornRecogJobRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/SubmitAIVideoSummaryJobRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/SubmitAIVideoSummaryJobRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/SubmitAIVideoTerrorismRecogJobRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/SubmitAIVideoTerrorismRecogJobRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/SubmitPreprocessJobsRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/SubmitPreprocessJobsRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/SubmitSnapshotJobRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/SubmitSnapshotJobRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/SubmitTranscodeJobsRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/SubmitTranscodeJobsRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/UpdateCategoryRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/UpdateCategoryRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/UpdateEditingProjectRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/UpdateEditingProjectRequest.php",
+		"oF": 0
+		},
+	"\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/UpdateVideoInfoRequest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/aliyun-php-sdk\/aliyun-php-sdk-vod\/vod\/Request\/V20170321\/UpdateVideoInfoRequest.php",
+		"oF": 0
+		},
+	"\/includes\/cache": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/includes\/cache",
+		"oF": 0
+		},
+	"\/includes\/comment-ajax.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/comment-ajax.php",
+		"oF": 0
+		},
+	"\/includes\/FanlySubmit.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/FanlySubmit.php",
+		"oF": 0
+		},
+	"\/includes\/follow.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/follow.php",
+		"oF": 0
+		},
+	"\/includes\/functions.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/functions.php",
+		"oF": 0
+		},
+	"\/includes\/jssdk.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/jssdk.php",
+		"oF": 0
+		},
+	"\/includes\/loadmore.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/loadmore.php",
+		"oF": 0
+		},
+	"\/includes\/messages\/inc\/inbox-page.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/messages\/inc\/inbox-page.php",
+		"oF": 0
+		},
+	"\/includes\/messages\/inc\/options.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/messages\/inc\/options.php",
+		"oF": 0
+		},
+	"\/includes\/messages\/inc\/outbox-page.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/messages\/inc\/outbox-page.php",
+		"oF": 0
+		},
+	"\/includes\/messages\/inc\/send-page.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/messages\/inc\/send-page.php",
+		"oF": 0
+		},
+	"\/includes\/messages\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/messages\/index.php",
+		"oF": 0
+		},
+	"\/includes\/messages\/js\/script.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/includes\/messages\/js\/script-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/includes\/metabox\/css\/framework.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/includes\/metabox\/css\/framework-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/includes\/metabox\/framework-core.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/metabox\/framework-core.php",
+		"oF": 0
+		},
+	"\/includes\/metabox\/js\/framework.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/includes\/metabox\/js\/framework-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/includes\/metabox\/meta-box.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/metabox\/meta-box.php",
+		"oF": 0
+		},
+	"\/includes\/metabox\/postmeta-feild.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/metabox\/postmeta-feild.php",
+		"oF": 0
+		},
+	"\/includes\/metabox\/quick_edit.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/metabox\/quick_edit.php",
+		"oF": 0
+		},
+	"\/includes\/metabox\/termmeta-feild.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/metabox\/termmeta-feild.php",
+		"oF": 0
+		},
+	"\/includes\/no-category.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/no-category.php",
+		"oF": 0
+		},
+	"\/includes\/notify.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/notify.php",
+		"oF": 0
+		},
+	"\/includes\/post-like.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/post-like.php",
+		"oF": 0
+		},
+	"\/includes\/post-types.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/post-types.php",
+		"oF": 0
+		},
+	"\/includes\/salong-license.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/salong-license.php",
+		"oF": 0
+		},
+	"\/includes\/salong.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/salong.php",
+		"oF": 0
+		},
+	"\/includes\/seo.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/seo.php",
+		"oF": 0
+		},
+	"\/includes\/shortcodes\/meta.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/shortcodes\/meta.php",
+		"oF": 0
+		},
+	"\/includes\/shortcodes\/shortcodes.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/includes\/shortcodes\/shortcodes-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/includes\/shortcodes\/shortcodes.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/shortcodes\/shortcodes.php",
+		"oF": 0
+		},
+	"\/includes\/shortcodes\/shortcodespanel.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/shortcodes\/shortcodespanel.php",
+		"oF": 0
+		},
+	"\/includes\/sidebars.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/sidebars.php",
+		"oF": 0
+		},
+	"\/includes\/sift.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/sift.php",
+		"oF": 0
+		},
+	"\/includes\/svg.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/svg.php",
+		"oF": 0
+		},
+	"\/includes\/thumb.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/thumb.php",
+		"oF": 0
+		},
+	"\/includes\/timthumb.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/timthumb.php",
+		"oF": 0
+		},
+	"\/includes\/tutorial.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/tutorial.php",
+		"oF": 0
+		},
+	"\/includes\/widgets\/widget-about.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/widgets\/widget-about.php",
+		"oF": 0
+		},
+	"\/includes\/widgets\/widget-author.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/widgets\/widget-author.php",
+		"oF": 0
+		},
+	"\/includes\/widgets\/widget-comments.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/widgets\/widget-comments.php",
+		"oF": 0
+		},
+	"\/includes\/widgets\/widget-download.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/widgets\/widget-download.php",
+		"oF": 0
+		},
+	"\/includes\/widgets\/widget-follow-post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/widgets\/widget-follow-post.php",
+		"oF": 0
+		},
+	"\/includes\/widgets\/widget-post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/widgets\/widget-post.php",
+		"oF": 0
+		},
+	"\/includes\/widgets\/widget-tag.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/widgets\/widget-tag.php",
+		"oF": 0
+		},
+	"\/includes\/widgets\/widget-topic.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/widgets\/widget-topic.php",
+		"oF": 0
+		},
+	"\/includes\/widgets\/widget-user.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/widgets\/widget-user.php",
+		"oF": 0
+		},
+	"\/includes\/widgets\/widget-video.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/widgets\/widget-video.php",
+		"oF": 0
+		},
+	"\/includes\/widgets\/widget-word.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/widgets\/widget-word.php",
+		"oF": 0
+		},
+	"\/includes\/wpauto.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/wpauto.php",
+		"oF": 0
+		},
+	"\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/index.php",
+		"oF": 0
+		},
+	"\/js\/cityselect.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/cityselect-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/comment-ajax.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/comment-ajax-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/custom.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/custom-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/follow.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/follow-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/gb2big5.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/gb2big5-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/headroom.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/headroom.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/jquery-ias.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/jquery-ias.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/jquery.fancybox.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/jquery.fancybox.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/jquery.lazyload.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/jquery.lazyload.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/jquery.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/jquery.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/jquery.qrcode.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/jquery.qrcode.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/jquery.scrollchaser.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/jquery.scrollchaser.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/mediaelement-and-player.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/mediaelement-and-player.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/mediaelement.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/mediaelement-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/post-like.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/post-like-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/readmore.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/readmore.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/slick.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/slick.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/zh-cn.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/zh-cn-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/languages\/en_US.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/languages\/en_US.mo",
+		"oF": 0
+		},
+	"\/languages\/en_US.po": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/languages\/en_US.po",
+		"oF": 0
+		},
+	"\/languages\/zh_CN.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/languages\/zh_CN.mo",
+		"oF": 0
+		},
+	"\/languages\/zh_CN.po": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/languages\/zh_CN.po",
+		"oF": 0
+		},
+	"\/page.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/page.php",
+		"oF": 0
+		},
+	"\/sass\/main.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/sass\/main.css.map",
+		"oF": 0
+		},
+	"\/sass\/main.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/stylesheets\/main.css",
+		"oF": 3,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/screenshot.jpg": {
+		"ft": 16384,
+		"iS": 38610,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/screenshot.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/search.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/search.php",
+		"oF": 0
+		},
+	"\/sidebar.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/sidebar.php",
+		"oF": 0
+		},
+	"\/single-download.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/single-download.php",
+		"oF": 0
+		},
+	"\/single-topic.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/single-topic.php",
+		"oF": 0
+		},
+	"\/single-video.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/single-video.php",
+		"oF": 0
+		},
+	"\/single.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/single.php",
+		"oF": 0
+		},
+	"\/style-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/style-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/stylesheets\/highlight.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/stylesheets\/highlight-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/stylesheets\/jquery.fancybox.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/stylesheets\/jquery.fancybox.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/stylesheets\/main.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/stylesheets\/main-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/stylesheets\/mediaelementplayer.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/stylesheets\/mediaelementplayer.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/stylesheets\/mejs-controls.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/stylesheets\/mejs-controls.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/tag.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/tag.php",
+		"oF": 0
+		},
+	"\/taxonomy-dcat.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/taxonomy-dcat.php",
+		"oF": 0
+		},
+	"\/taxonomy-dtag.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/taxonomy-dtag.php",
+		"oF": 0
+		},
+	"\/taxonomy-tcat.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/taxonomy-tcat.php",
+		"oF": 0
+		},
+	"\/taxonomy-ttag.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/taxonomy-ttag.php",
+		"oF": 0
+		},
+	"\/taxonomy-vcat.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/taxonomy-vcat.php",
+		"oF": 0
+		},
+	"\/taxonomy-vtag.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/taxonomy-vtag.php",
+		"oF": 0
+		},
+	"\/template-download.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/template-download.php",
+		"oF": 0
+		},
+	"\/template-go.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/template-go.php",
+		"oF": 0
+		},
+	"\/template-post.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/template-post.php",
+		"oF": 0
+		},
+	"\/template-sitemap.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/template-sitemap.php",
+		"oF": 0
+		},
+	"\/template-topic.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/template-topic.php",
+		"oF": 0
+		},
+	"\/template-video.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/template-video.php",
+		"oF": 0
+		},
+	"\/woocommerce\/ajax-cart.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/woocommerce\/ajax-cart.php",
+		"oF": 0
+		},
+	"\/woocommerce\/archive-product.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/woocommerce\/archive-product.php",
+		"oF": 0
+		},
+	"\/woocommerce\/content-product.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/woocommerce\/content-product.php",
+		"oF": 0
+		},
+	"\/woocommerce\/content-single-product.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/woocommerce\/content-single-product.php",
+		"oF": 0
+		},
+	"\/woocommerce\/content-widget-product.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/woocommerce\/content-widget-product.php",
+		"oF": 0
+		},
+	"\/woocommerce\/myaccount\/form-edit-account.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/woocommerce\/myaccount\/form-edit-account.php",
+		"oF": 0
+		},
+	"\/woocommerce\/single-product.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/woocommerce\/single-product.php",
+		"oF": 0
+		},
+	"\/woocommerce\/single-product\/add-to-cart\/simple.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/woocommerce\/single-product\/add-to-cart\/simple.php",
+		"oF": 0
+		},
+	"\/woocommerce\/single-product\/product-image.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/woocommerce\/single-product\/product-image.php",
+		"oF": 0
+		},
+	"\/woocommerce\/single-product\/related.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/woocommerce\/single-product\/related.php",
+		"oF": 0
+		},
+	"\/woocommerce\/single-product\/review.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/woocommerce\/single-product\/review.php",
+		"oF": 0
+		},
+	"\/woocommerce\/single-product\/tabs\/additional-information.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/woocommerce\/single-product\/tabs\/additional-information.php",
+		"oF": 0
+		},
+	"\/woocommerce\/single-product\/tabs\/description.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/woocommerce\/single-product\/tabs\/description.php",
+		"oF": 0
+		},
+	"\/woocommerce\/single-product\/tabs\/tabs.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/woocommerce\/single-product\/tabs\/tabs.php",
+		"oF": 0
+		},
+	"\/woocommerce\/woo-config.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/woocommerce\/woo-config.php",
+		"oF": 0
+		},
+	"\/woocommerce\/woo-hooks.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/woocommerce\/woo-hooks.php",
+		"oF": 0
+		}
+	},
+"hooks": [
+	],
+"manualImportLinks": {
+	},
+"projectAttributes": {
+	"creationDate": 553862170,
+	"displayValue": "mnews",
+	"displayValueWasSetByUser": 0,
+	"iconImageName": "meme-angryPicard",
+	"iconImageWasSetByUser": 0
+	},
+"projectSettings": {
+	"abortBuildOnError": 1,
+	"alwaysUseExternalServer": 0,
+	"animateCSSInjections": 1,
+	"autoBuildNewItems": 1,
+	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoprefixerEnableIEGrid": 0,
+	"babelAuxiliaryCommentAfter": "",
+	"babelAuxiliaryCommentBefore": "",
+	"babelConfigFileHandlingType": 0,
+	"babelCustomPluginsList": "",
+	"babelCustomPresetsList": "",
+	"babelInsertModuleIDs": 0,
+	"babelModuleID": "",
+	"babelNoComments": 0,
+	"babelPlugins": {
+		"async-generator-functions": {
+			"active": 0
+			},
+		"async-to-generator": {
+			"active": 0
+			},
+		"async-to-module-method": {
+			"active": 0
+			},
+		"class-properties": {
+			"active": 0
+			},
+		"decorators": {
+			"active": 0
+			},
+		"decorators-legacy": {
+			"active": 0
+			},
+		"do-expressions": {
+			"active": 0
+			},
+		"es2015-arrow-functions": {
+			"active": 0
+			},
+		"es2015-block-scoped-functions": {
+			"active": 0
+			},
+		"es2015-block-scoping": {
+			"active": 0
+			},
+		"es2015-classes": {
+			"active": 0
+			},
+		"es2015-computed-properties": {
+			"active": 0
+			},
+		"es2015-constants": {
+			"active": 0
+			},
+		"es2015-destructuring": {
+			"active": 0
+			},
+		"es2015-duplicate-keys": {
+			"active": 0
+			},
+		"es2015-for-of": {
+			"active": 0
+			},
+		"es2015-function-name": {
+			"active": 0
+			},
+		"es2015-literals": {
+			"active": 0
+			},
+		"es2015-modules-amd": {
+			"active": 0
+			},
+		"es2015-modules-commonjs": {
+			"active": 0
+			},
+		"es2015-modules-systemjs": {
+			"active": 0
+			},
+		"es2015-modules-umd": {
+			"active": 0
+			},
+		"es2015-object-super": {
+			"active": 0
+			},
+		"es2015-parameters": {
+			"active": 0
+			},
+		"es2015-shorthand-properties": {
+			"active": 0
+			},
+		"es2015-spread": {
+			"active": 0
+			},
+		"es2015-sticky-regex": {
+			"active": 0
+			},
+		"es2015-template-literals": {
+			"active": 0
+			},
+		"es2015-typeof-symbol": {
+			"active": 0
+			},
+		"es2015-unicode-regex": {
+			"active": 0
+			},
+		"es3-member-expression-literals": {
+			"active": 0
+			},
+		"es3-property-literals": {
+			"active": 0
+			},
+		"es5-property-mutators": {
+			"active": 0
+			},
+		"eval": {
+			"active": 0
+			},
+		"exponentiation-operator": {
+			"active": 0
+			},
+		"export-extensions": {
+			"active": 0
+			},
+		"external-helpers": {
+			"active": 0
+			},
+		"flow-comments": {
+			"active": 0
+			},
+		"flow-strip-types": {
+			"active": 0
+			},
+		"function-bind": {
+			"active": 0
+			},
+		"inline-environment-variables": {
+			"active": 0
+			},
+		"jscript": {
+			"active": 0
+			},
+		"member-expression-literals": {
+			"active": 0
+			},
+		"merge-sibling-variables": {
+			"active": 0
+			},
+		"minify-booleans": {
+			"active": 0
+			},
+		"node-env-inline": {
+			"active": 0
+			},
+		"object-assign": {
+			"active": 0
+			},
+		"object-rest-spread": {
+			"active": 0
+			},
+		"object-set-prototype-of-to-assign": {
+			"active": 0
+			},
+		"property-literals": {
+			"active": 0
+			},
+		"proto-to-assign": {
+			"active": 0
+			},
+		"react-constant-elements": {
+			"active": 0
+			},
+		"react-display-name": {
+			"active": 0
+			},
+		"react-inline-elements": {
+			"active": 0
+			},
+		"react-jsx": {
+			"active": 0
+			},
+		"react-jsx-compat": {
+			"active": 0
+			},
+		"react-jsx-self": {
+			"active": 0
+			},
+		"react-jsx-source": {
+			"active": 0
+			},
+		"regenerator": {
+			"active": 0
+			},
+		"remove-console": {
+			"active": 0
+			},
+		"remove-debugger": {
+			"active": 0
+			},
+		"runtime": {
+			"active": 0
+			},
+		"simplify-comparison-operators": {
+			"active": 0
+			},
+		"strict-mode": {
+			"active": 0
+			},
+		"syntax-async-generators": {
+			"active": 0
+			},
+		"syntax-class-properties": {
+			"active": 0
+			},
+		"syntax-decorators": {
+			"active": 0
+			},
+		"syntax-do-expressions": {
+			"active": 0
+			},
+		"syntax-export-extensions": {
+			"active": 0
+			},
+		"syntax-flow": {
+			"active": 0
+			},
+		"syntax-function-bind": {
+			"active": 0
+			},
+		"syntax-function-sent": {
+			"active": 0
+			},
+		"syntax-jsx": {
+			"active": 0
+			},
+		"syntax-object-rest-spread": {
+			"active": 0
+			},
+		"undeclared-variables-check": {
+			"active": 0
+			},
+		"undefined-to-void": {
+			"active": 0
+			}
+		},
+	"babelPresetType": 193,
+	"babelRetainLines": 0,
+	"bowerAbbreviatedPath": "bower_components",
+	"bowerAutoCreateInfoFile": 1,
+	"bowerInstallDevDependencies": 0,
+	"bowerSaveDependencies": 1,
+	"bowerSaveDevDependencies": 0,
+	"bowerUseExactVersion": 0,
+	"browserRefreshDelay": 0,
+	"buildFolderActive": 0,
+	"buildFolderName": "build",
+	"cleanBuild": 1,
+	"coffeeLintFlags2": {
+		"arrow_spacing": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camel_case_classes": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"colon_assignment_spacing": {
+			"active": 0,
+			"flagValue": 1
+			},
+		"cyclomatic_complexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"duplicate_key": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"ensure_comprehensions": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indentation": {
+			"active": 1,
+			"flagValue": 2
+			},
+		"line_endings": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"max_line_length": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"missing_fat_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newlines_after_classes": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"no_backticks": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_empty_functions": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_empty_param_list": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_implicit_braces": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_implicit_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_interpolation_in_single_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_nested_string_interpolation": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_private_function_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_stand_alone_at": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_tabs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_this": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_throwing_strings": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_whitespace": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_unnecessary_double_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_unnecessary_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"non_empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prefer_english_operator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space_operators": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"spacing_after_comma": {
+			"active": 1,
+			"flagValue": -1
+			}
+		},
+	"esLintConfigFileHandlingType": 0,
+	"esLintECMAVersion": 7,
+	"esLintEnvironmentsMask": 1,
+	"esLintRules": {
+		"accessor-pairs": {
+			"active": 0,
+			"optionString": "{'setWithoutGet': true, 'getWithoutSet': false}"
+			},
+		"array-bracket-newline": {
+			"active": 0,
+			"optionString": "{'multiline': true, 'minItems': null}"
+			},
+		"array-bracket-spacing": {
+			"active": 0,
+			"optionString": "'never', {'singleValue': false, 'objectsInArrays': false, 'arraysInArrays': false}"
+			},
+		"array-callback-return": {
+			"active": 0,
+			"optionString": "{'allowImplicit': false}"
+			},
+		"array-element-newline": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"arrow-body-style": {
+			"active": 0,
+			"optionString": "'as-needed', {'requireReturnForObjectLiteral': false}"
+			},
+		"arrow-parens": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"arrow-spacing": {
+			"active": 0,
+			"optionString": "{'before': true, 'after': true}"
+			},
+		"block-scoped-var": {
+			"active": 0,
+			"optionString": ""
+			},
+		"block-spacing": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"brace-style": {
+			"active": 0,
+			"optionString": "'1tbs', {'allowSingleLine': true}"
+			},
+		"callback-return": {
+			"active": 0,
+			"optionString": "['callback', 'cb', 'next']"
+			},
+		"camelcase": {
+			"active": 0,
+			"optionString": "{'properties': 'always'}"
+			},
+		"capitalized-comments": {
+			"active": 0,
+			"optionString": "'always', {'ignoreInlineComments': false, 'ignoreConsecutiveComments': false}"
+			},
+		"class-methods-use-this": {
+			"active": 0,
+			"optionString": "{'exceptMethods': []}"
+			},
+		"comma-dangle": {
+			"active": 1,
+			"optionString": "'never'"
+			},
+		"comma-spacing": {
+			"active": 0,
+			"optionString": "{'before': false, 'after': true}"
+			},
+		"comma-style": {
+			"active": 0,
+			"optionString": "'last'"
+			},
+		"complexity": {
+			"active": 0,
+			"optionString": "20"
+			},
+		"computed-property-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"consistent-return": {
+			"active": 0,
+			"optionString": "{'treatUndefinedAsUnspecified': false}"
+			},
+		"consistent-this": {
+			"active": 0,
+			"optionString": "'that'"
+			},
+		"constructor-super": {
+			"active": 1,
+			"optionString": ""
+			},
+		"curly": {
+			"active": 0,
+			"optionString": "'all'"
+			},
+		"default-case": {
+			"active": 0,
+			"optionString": ""
+			},
+		"dot-location": {
+			"active": 0,
+			"optionString": "'object'"
+			},
+		"dot-notation": {
+			"active": 0,
+			"optionString": "{'allowKeywords': false}"
+			},
+		"eol-last": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"eqeqeq": {
+			"active": 0,
+			"optionString": "'always', {'null': 'always'}"
+			},
+		"for-direction": {
+			"active": 0,
+			"optionString": ""
+			},
+		"func-call-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"func-name-matching": {
+			"active": 0,
+			"optionString": "'always', {'includeCommonJSModuleExports': false}"
+			},
+		"func-names": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"func-style": {
+			"active": 0,
+			"optionString": "'expression'"
+			},
+		"function-paren-newline": {
+			"active": 0,
+			"optionString": "'multiline'"
+			},
+		"generator-star-spacing": {
+			"active": 0,
+			"optionString": "{'before': true, 'after': false}"
+			},
+		"getter-return": {
+			"active": 0,
+			"optionString": "{'allowImplicit': false}"
+			},
+		"global-require": {
+			"active": 0,
+			"optionString": ""
+			},
+		"guard-for-in": {
+			"active": 0,
+			"optionString": ""
+			},
+		"handle-callback-err": {
+			"active": 0,
+			"optionString": "'err'"
+			},
+		"id-blacklist": {
+			"active": 0,
+			"optionString": "'data', 'err', 'e', 'cb', 'callback'"
+			},
+		"id-length": {
+			"active": 0,
+			"optionString": "{'min': 2, 'max': 1000, 'properties': 'always', 'exceptions': ['x', 'i', 'y']}"
+			},
+		"id-match": {
+			"active": 0,
+			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"implicit-arrow-linebreak": {
+			"active": 0,
+			"optionString": "'beside'"
+			},
+		"indent": {
+			"active": 0,
+			"optionString": "4, {'SwitchCase': 0, 'VariableDeclarator': 1, 'outerIIFEBody': 1 }"
+			},
+		"init-declarations": {
+			"active": 0,
+			"optionString": "'always',  {'ignoreForLoopInit': true}"
+			},
+		"jsx-quotes": {
+			"active": 0,
+			"optionString": "'prefer-double'"
+			},
+		"key-spacing": {
+			"active": 0,
+			"optionString": "{'singleLine': {'beforeColon': false, 'afterColon': true, 'mode':'strict'}, 'multiLine': {'beforeColon': false, 'afterColon': true, 'align': 'value', 'mode':'minimum'}}"
+			},
+		"keyword-spacing": {
+			"active": 0,
+			"optionString": "{'before': true, 'after': true, 'overrides': {}}"
+			},
+		"line-comment-position": {
+			"active": 0,
+			"optionString": "{'position': 'above'}"
+			},
+		"linebreak-style": {
+			"active": 0,
+			"optionString": "'unix'"
+			},
+		"lines-around-comment": {
+			"active": 0,
+			"optionString": "{'beforeBlockComment': true}"
+			},
+		"lines-between-class-members": {
+			"active": 0,
+			"optionString": "'always', {exceptAfterSingleLine: false}"
+			},
+		"max-depth": {
+			"active": 0,
+			"optionString": "{'max': 4}"
+			},
+		"max-len": {
+			"active": 0,
+			"optionString": "{'code': 80, 'comments': 80, 'tabWidth': 4, 'ignoreUrls': true, 'ignoreStrings': true, 'ignoreTemplateLiterals': true, 'ignoreRegExpLiterals': true}"
+			},
+		"max-lines": {
+			"active": 0,
+			"optionString": "{'max': 300, 'skipBlankLines': true, 'skipComments': true}"
+			},
+		"max-nested-callbacks": {
+			"active": 0,
+			"optionString": "{'max': 10}"
+			},
+		"max-params": {
+			"active": 0,
+			"optionString": "{'max': 4}"
+			},
+		"max-statements": {
+			"active": 0,
+			"optionString": "{'max': 10}, {'ignoreTopLevelFunctions': true}"
+			},
+		"max-statements-per-line": {
+			"active": 0,
+			"optionString": "{'max': 1}"
+			},
+		"multiline-comment-style": {
+			"active": 0,
+			"optionString": "'starred-block'"
+			},
+		"multiline-ternary": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"new-cap": {
+			"active": 0,
+			"optionString": "{'newIsCap': true, 'capIsNew': true, 'newIsCapExceptions': [], 'capIsNewExceptions': ['Array', 'Boolean', 'Date', 'Error', 'Function', 'Number', 'Object', 'RegExp', 'String', 'Symbol'], 'properties': true}"
+			},
+		"new-parens": {
+			"active": 0,
+			"optionString": ""
+			},
+		"newline-per-chained-call": {
+			"active": 0,
+			"optionString": "{'ignoreChainWithDepth': 2}"
+			},
+		"no-alert": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-array-constructor": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-await-in-loop": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-bitwise": {
+			"active": 0,
+			"optionString": "{'allow': ['~'], 'int32Hint': true}"
+			},
+		"no-buffer-constructor": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-caller": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-case-declarations": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-catch-shadow": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-class-assign": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-compare-neg-zero": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-cond-assign": {
+			"active": 1,
+			"optionString": "'except-parens'"
+			},
+		"no-confusing-arrow": {
+			"active": 0,
+			"optionString": "{'allowParens': false}"
+			},
+		"no-console": {
+			"active": 1,
+			"optionString": "{'allow': ['warn', 'error']}"
+			},
+		"no-const-assign": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-constant-condition": {
+			"active": 1,
+			"optionString": "{'checkLoops': true}"
+			},
+		"no-continue": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-control-regex": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-debugger": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-delete-var": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-div-regex": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-dupe-args": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-dupe-class-members": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-dupe-keys": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-duplicate-imports": {
+			"active": 0,
+			"optionString": "{'includeExports': false}"
+			},
+		"no-else-return": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-empty": {
+			"active": 1,
+			"optionString": "{'allowEmptyCatch': false}"
+			},
+		"no-empty-character-class": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-empty-function": {
+			"active": 0,
+			"optionString": "{'allow': []}"
+			},
+		"no-empty-pattern": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-eq-null": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-eval": {
+			"active": 0,
+			"optionString": "{'allowIndirect': false}"
+			},
+		"no-ex-assign": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-extend-native": {
+			"active": 0,
+			"optionString": "{'exceptions': []}"
+			},
+		"no-extra-bind": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-extra-boolean-cast": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-extra-labels": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-extra-parens": {
+			"active": 0,
+			"optionString": "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false, 'ignoreJSX': 'none', 'enforceForArrowConditionals': false}"
+			},
+		"no-extra-semi": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-fallthrough": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-floating-decimal": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-func-assign": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-global-assign": {
+			"active": 1,
+			"optionString": "{'exceptions': []}"
+			},
+		"no-implicit-coercion": {
+			"active": 0,
+			"optionString": "{'boolean': true, 'number': true, 'string': true, 'allow': []}"
+			},
+		"no-implicit-globals": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-implied-eval": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-inline-comments": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-inner-declarations": {
+			"active": 1,
+			"optionString": "'functions'"
+			},
+		"no-invalid-regexp": {
+			"active": 1,
+			"optionString": "{'allowConstructorFlags': ['u', 'y']}"
+			},
+		"no-invalid-this": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-irregular-whitespace": {
+			"active": 1,
+			"optionString": "{'skipStrings': true, 'skipComments': false, 'skipRegExps': true, 'skipTemplates': true}"
+			},
+		"no-iterator": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-label-var": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-labels": {
+			"active": 0,
+			"optionString": "{'allowLoop': false, 'allowSwitch': false}"
+			},
+		"no-lone-blocks": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-lonely-if": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-loop-func": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-magic-numbers": {
+			"active": 0,
+			"optionString": "{'ignore': [], 'ignoreArrayIndexes': true, 'enforceConst': false, 'detectObjects': false}"
+			},
+		"no-mixed-operators": {
+			"active": 0,
+			"optionString": "{'groups': [['+', '-', '*', '\/', '%', '**'], ['&', '|', '^', '~', '<<', '>>', '>>>'], ['==', '!=', '===', '!==', '>', '>=', '<', '<='], ['&&', '||'], ['in', 'instanceof']], 'allowSamePrecedence': true}"
+			},
+		"no-mixed-requires": {
+			"active": 0,
+			"optionString": "{'grouping': false, 'allowCall': false }"
+			},
+		"no-mixed-spaces-and-tabs": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-multi-assign": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-multi-spaces": {
+			"active": 0,
+			"optionString": "{'exceptions': {'Property': true, 'BinaryExpression': false, 'VariableDeclarator': false, 'ImportDeclaration': false}}"
+			},
+		"no-multi-str": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-multiple-empty-lines": {
+			"active": 0,
+			"optionString": "{'max': 2, 'maxBOF': 2, 'maxEOF': 2}"
+			},
+		"no-negated-condition": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-nested-ternary": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-new": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-new-func": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-new-object": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-new-require": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-new-symbol": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-new-wrappers": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-obj-calls": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-octal": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-octal-escape": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-param-reassign": {
+			"active": 0,
+			"optionString": "{'props': false}"
+			},
+		"no-path-concat": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-plusplus": {
+			"active": 0,
+			"optionString": "{'allowForLoopAfterthoughts': false}"
+			},
+		"no-process-env": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-process-exit": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-proto": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-prototype-builtins": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-redeclare": {
+			"active": 1,
+			"optionString": "{'builtinGlobals': false}"
+			},
+		"no-regex-spaces": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-restricted-globals": {
+			"active": 0,
+			"optionString": "'event', 'fdescribe'"
+			},
+		"no-restricted-imports": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-restricted-modules": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-restricted-properties": {
+			"active": 0,
+			"optionString": "[{'object': 'disallowedObjectName', 'property': 'disallowedPropertyName'}, {'object': 'disallowedObjectName', 'property': 'anotherDisallowedPropertyName', 'message': 'Please use allowedObjectName.allowedPropertyName.'}]"
+			},
+		"no-restricted-syntax": {
+			"active": 0,
+			"optionString": "'FunctionExpression', 'WithStatement'"
+			},
+		"no-return-assign": {
+			"active": 0,
+			"optionString": "'except-parens'"
+			},
+		"no-return-await": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-script-url": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-self-assign": {
+			"active": 1,
+			"optionString": "{'props': false}"
+			},
+		"no-self-compare": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-sequences": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-shadow": {
+			"active": 0,
+			"optionString": "{'builtinGlobals': false, 'hoist': 'functions', 'allow': []}"
+			},
+		"no-shadow-restricted-names": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-sparse-arrays": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-sync": {
+			"active": 0,
+			"optionString": "{'allowAtRootLevel': false}"
+			},
+		"no-tabs": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-template-curly-in-string": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-ternary": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-this-before-super": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-throw-literal": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-trailing-spaces": {
+			"active": 0,
+			"optionString": "{'skipBlankLines': false, 'ignoreComments': false}"
+			},
+		"no-undef": {
+			"active": 1,
+			"optionString": "{'typeof': false}"
+			},
+		"no-undef-init": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-undefined": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-underscore-dangle": {
+			"active": 0,
+			"optionString": "{'allow': [], 'allowAfterThis': false, 'allowAfterSuper': false, 'enforceInMethodNames': false}"
+			},
+		"no-unexpected-multiline": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-unmodified-loop-condition": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-unneeded-ternary": {
+			"active": 0,
+			"optionString": "{'defaultAssignment': true}"
+			},
+		"no-unreachable": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-unsafe-finally": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-unsafe-negation": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-unused-expressions": {
+			"active": 0,
+			"optionString": "{'allowShortCircuit': false, 'allowTernary': false, 'allowTaggedTemplates': false}"
+			},
+		"no-unused-labels": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-unused-vars": {
+			"active": 1,
+			"optionString": "{'vars': 'all', 'args': 'after-used', 'caughtErrors': 'none', 'ignoreRestSiblings': false}"
+			},
+		"no-use-before-define": {
+			"active": 0,
+			"optionString": "{'functions': true, 'classes': true, 'variables': true}"
+			},
+		"no-useless-call": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-useless-computed-key": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-useless-concat": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-useless-constructor": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-useless-escape": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-useless-rename": {
+			"active": 0,
+			"optionString": "{'ignoreDestructuring': false, 'ignoreImport': false, 'ignoreExport': false}"
+			},
+		"no-useless-return": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-var": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-void": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-warning-comments": {
+			"active": 0,
+			"optionString": "{'terms': ['todo', 'fixme', 'xxx'], 'location': 'start'}"
+			},
+		"no-whitespace-before-property": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-with": {
+			"active": 0,
+			"optionString": ""
+			},
+		"nonblock-statement-body-position": {
+			"active": 0,
+			"optionString": "'beside'"
+			},
+		"object-curly-newline": {
+			"active": 0,
+			"optionString": "{'ObjectExpression': {'multiline': true}, 'ObjectPattern': {'multiline': true}}"
+			},
+		"object-curly-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"object-property-newline": {
+			"active": 0,
+			"optionString": "{'allowAllPropertiesOnSameLine': true}"
+			},
+		"object-shorthand": {
+			"active": 0,
+			"optionString": "'always', {'avoidQuotes': false, 'ignoreConstructors': false}"
+			},
+		"one-var": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"one-var-declaration-per-line": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"operator-assignment": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"operator-linebreak": {
+			"active": 0,
+			"optionString": "'after', {'overrides': {'?': 'after', '+=': 'none'}}"
+			},
+		"padded-blocks": {
+			"active": 0,
+			"optionString": "{'blocks': 'always', 'switches': 'always', 'classes': 'always'}"
+			},
+		"padding-line-between-statements": {
+			"active": 0,
+			"optionString": "{blankLine: 'always', prev:'*', next:'return'}"
+			},
+		"prefer-arrow-callback": {
+			"active": 0,
+			"optionString": ""
+			},
+		"prefer-const": {
+			"active": 0,
+			"optionString": "{'destructuring': 'any', 'ignoreReadBeforeAssign': false}"
+			},
+		"prefer-destructuring": {
+			"active": 0,
+			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
+			},
+		"prefer-numeric-literals": {
+			"active": 0,
+			"optionString": ""
+			},
+		"prefer-promise-reject-errors": {
+			"active": 0,
+			"optionString": "{'allowEmptyReject': false}"
+			},
+		"prefer-rest-params": {
+			"active": 0,
+			"optionString": ""
+			},
+		"prefer-spread": {
+			"active": 0,
+			"optionString": ""
+			},
+		"prefer-template": {
+			"active": 0,
+			"optionString": ""
+			},
+		"quote-props": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"quotes": {
+			"active": 0,
+			"optionString": "'double', {'avoidEscape': true, 'allowTemplateLiterals': true}"
+			},
+		"radix": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"require-await": {
+			"active": 0,
+			"optionString": ""
+			},
+		"require-jsdoc": {
+			"active": 0,
+			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false, 'ArrowFunctionExpression': false}}"
+			},
+		"require-yield": {
+			"active": 1,
+			"optionString": ""
+			},
+		"rest-spread-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"semi": {
+			"active": 0,
+			"optionString": "'always', {'omitLastInOneLineBlock': false}"
+			},
+		"semi-spacing": {
+			"active": 0,
+			"optionString": "{'before': false, 'after': true}"
+			},
+		"semi-style": {
+			"active": 0,
+			"optionString": "'last'"
+			},
+		"sort-imports": {
+			"active": 0,
+			"optionString": "{'ignoreCase': false, 'ignoreMemberSort': true, 'memberSyntaxSortOrder': ['none', 'all', 'multiple', 'single']}"
+			},
+		"sort-keys": {
+			"active": 0,
+			"optionString": "'asc', {'caseSensitive': true, 'natural': false}"
+			},
+		"sort-vars": {
+			"active": 0,
+			"optionString": "{'ignoreCase': false}"
+			},
+		"space-before-blocks": {
+			"active": 0,
+			"optionString": "{'functions': 'always', 'keywords': 'always', 'classes': 'always'}"
+			},
+		"space-before-function-paren": {
+			"active": 0,
+			"optionString": "{'anonymous': 'always', 'named': 'never'}"
+			},
+		"space-in-parens": {
+			"active": 0,
+			"optionString": "'never', {'exceptions': []}"
+			},
+		"space-infix-ops": {
+			"active": 0,
+			"optionString": "{'int32Hint': false}"
+			},
+		"space-unary-ops": {
+			"active": 0,
+			"optionString": "{'words': true, 'nonwords': false, 'overrides': {}}"
+			},
+		"spaced-comment": {
+			"active": 0,
+			"optionString": "'always', {'line': {'markers': ['\/'], 'exceptions': ['-', '+']}, 'block': {'markers': ['!'], 'exceptions': ['*'], 'balanced': false}}"
+			},
+		"strict": {
+			"active": 0,
+			"optionString": "'safe'"
+			},
+		"switch-colon-spacing": {
+			"active": 0,
+			"optionString": "{'after': true, 'before': false}"
+			},
+		"symbol-description": {
+			"active": 0,
+			"optionString": ""
+			},
+		"template-curly-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"template-tag-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"unicode-bom": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"use-isnan": {
+			"active": 1,
+			"optionString": ""
+			},
+		"valid-jsdoc": {
+			"active": 0,
+			"optionString": "{'prefer': {'return': 'returns'}, 'requireReturn': true, 'requireReturnDescription': true, 'requireReturnType': true, 'requireParamDescription': true}"
+			},
+		"valid-typeof": {
+			"active": 1,
+			"optionString": "{'requireStringLiterals': true}"
+			},
+		"vars-on-top": {
+			"active": 0,
+			"optionString": ""
+			},
+		"wrap-iife": {
+			"active": 0,
+			"optionString": "'outside'"
+			},
+		"wrap-regex": {
+			"active": 0,
+			"optionString": ""
+			},
+		"yield-star-spacing": {
+			"active": 0,
+			"optionString": "{'before': false, 'after': true}"
+			},
+		"yoda": {
+			"active": 0,
+			"optionString": "'never', {'exceptRange': false, 'onlyEquality': false}"
+			}
+		},
+	"esLintSourceType": 0,
+	"externalServerAddress": "http:\/\/localhost:8888",
+	"gitIgnoreBuildFolder": 1,
+	"hideConfigFile": 0,
+	"jsCheckerReservedNamesString": "",
+	"jsHintFlags2": {
+		"asi": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"boss": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"browserify": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camelcase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"curly": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"dojo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"elision": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqeqeq": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqnull": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es3": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"esnext": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"expr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"freeze": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"funcscope": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"futurehostile": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"globalstrict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"immed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"iterator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jasmine": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jquery": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"lastsemic": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"latedef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"laxbreak": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"laxcomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loopfunc": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxcomplexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"maxdepth": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"maxparams": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxstatements": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"mocha": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"mootools": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"moz": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"multistr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newcap": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noarg": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nocomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"noempty": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonbsp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonew": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nonstandard": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"notypeof": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noyield": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"onecase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"phantom": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prototypejs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"qunit": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"scripturl": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shadow": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shelljs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"singleGroups": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"strict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"supernew": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"typed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"undef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"varstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"withstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"worker": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"wsh": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"yui": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsLintFlags2": {
+		"bitwise": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es6": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"for": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"this": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"white": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"languageDefaultsCOFFEE": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.js",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 0,
+		"minifyOutput": 1,
+		"outputStyle": 0,
+		"syntaxCheckerStyle": 1,
+		"transpilerStyle": 1
+		},
+	"languageDefaultsCSS": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*-min.css",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0
+		},
+	"languageDefaultsGIF": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.gif",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0
+		},
+	"languageDefaultsHAML": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.html",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"escapeHTMLCharacters": 0,
+		"noEscapeInAttributes": 0,
+		"outputFormat": 2,
+		"outputStyle": 0,
+		"shouldRunCacheBuster": 0,
+		"useCDATA": 0,
+		"useDoubleQuotes": 0,
+		"useUnixNewlines": 0
+		},
+	"languageDefaultsJPG": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.jpg",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
+		"quality": 100
+		},
+	"languageDefaultsJS": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*-min.js",
+		"autoOutputPathRelativePath": "\/min",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 0,
+		"minifyOutput": 1,
+		"syntaxCheckerStyle": 3,
+		"transpilerStyle": 0
+		},
+	"languageDefaultsJSON": {
+		"autoOutputAction": 1,
+		"autoOutputPathFilenamePattern": "*-min.json",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"orderOutput": 0,
+		"outputStyle": 1
+		},
+	"languageDefaultsKIT": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.html",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "kit",
+		"autoOutputPathReplace2": "html",
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
+		},
+	"languageDefaultsLESS": {
+		"allowInsecureImports": 0,
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.css",
+		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathReplace1": "less",
+		"autoOutputPathReplace2": "css",
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"ieCompatibility": 1,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"languageDefaultsMARKDOWN": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.html",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"criticStyle": 0,
+		"enableFootnotes": 1,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"maskEmailAddresses": 1,
+		"outputFormat": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"shouldRunCacheBuster": 0,
+		"useCompatibilityMode": 0
+		},
+	"languageDefaultsOTHER": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.*",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
+		},
+	"languageDefaultsPNG": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.png",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"optimizerType": 1,
+		"quality": 100
+		},
+	"languageDefaultsPUG": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.html",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"compileDebug": 1,
+		"outputStyle": 0,
+		"shouldRunCacheBuster": 0
+		},
+	"languageDefaultsSASS": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.css",
+		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathReplace1": "sass",
+		"autoOutputPathReplace2": "css",
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"languageDefaultsSLIM": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.html",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"compileOnly": 0,
+		"logicless": 0,
+		"outputFormat": 0,
+		"outputStyle": 1,
+		"railsCompatible": 0,
+		"shouldRunCacheBuster": 0
+		},
+	"languageDefaultsSTYLUS": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.css",
+		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathReplace1": "stylus",
+		"autoOutputPathReplace2": "css",
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"importCSS": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"languageDefaultsSVG": {
+		"autoOutputAction": 2,
+		"autoOutputPathFilenamePattern": "*.svg",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"pluginMask": 3758088159
+		},
+	"languageDefaultsTS": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.js",
+		"autoOutputPathRelativePath": "\/js",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"createDeclarationFile": 0,
+		"createSourceMap": 0,
+		"jsxMode": 0,
+		"minifyOutput": 0,
+		"moduleResolutionType": 0,
+		"moduleType": 2,
+		"noImplicitAny": 0,
+		"preserveConstEnums": 0,
+		"removeComments": 0,
+		"suppressImplicitAnyIndexErrors": 0,
+		"targetECMAVersion": 0
+		},
+	"languageDefaultsUserDefined": [
+		],
+	"overrideExternalServerCSS": 0,
+	"previewPathAddition": "",
+	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, \/storage\/framework\/sessions, node_modules",
+	"sourceFolderName": "source",
+	"susyVersion": 3,
+	"uglifyDefinesString": "",
+	"uglifyFlags2": {
+		"ascii-only": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bare-returns": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"booleans": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"bracketize": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"cascade": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comparisons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"compress": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"conditionals": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"dead_code": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_console": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evaluate": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indent-level": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"indent-start": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"inline-script": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"join_vars": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"keep_fargs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"keep_fnames": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loops": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"mangle": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"max-line-len": {
+			"active": 1,
+			"flagValue": 32000
+			},
+		"negate_iife": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"properties": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"pure_getters": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"quote-keys": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"screw-ie8": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sequences": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sort": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space-colon": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"support-ie8": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"toplevel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"warnings": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"width": {
+			"active": 1,
+			"flagValue": 80
+			}
+		},
+	"uglifyReservedNamesString": "$",
+	"websiteRelativeRoot": ""
+	},
+"settingsFileVersion": "3"
+}
