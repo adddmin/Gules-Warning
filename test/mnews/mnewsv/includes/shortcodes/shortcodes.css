@@ -1,0 +1,8 @@
+.shortcodes_control .description{ display:none; }
+.shortcodes_control label{ display:block; font-weight:bold; margin:6px; margin-bottom:0; margin-top:12px; }
+.shortcodes_control label span{ display:inline; font-weight:normal; }
+.shortcodes_control span{ color:#999; display:block; }
+.shortcodes_control textarea, .shortcodes_control input[type='text']{ margin-bottom:3px; width:99%; }
+.shortcodes_control h4{ color:#999; font-size:1em; margin:15px 6px; text-transform:uppercase; }
+.shortcodes_control textarea, select {border:1px solid #ddd}.parentscat {font-weight:bold;background-color : #006699;color:#fff;padding:4px 10px;margin: 8px 0 6px 0;}
+.shortcode_sel {width:100%;}
